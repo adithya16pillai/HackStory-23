@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "GoGabba",
+    "slug": "GoGabba",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "GoGabba"
+}
